@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-n-u-vanguri&label=Profile%100views&color=0e75b6&style=flat" alt="a-n-u-vanguri" /> </p>
+
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm ANJALI VANGURI</h1>
 <h3 align="center">an aspiring AI enthusiast </h3>
